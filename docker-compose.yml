@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  base:
+    container_name: base
+    build: .
+    ports:
+      - '8888:3000'

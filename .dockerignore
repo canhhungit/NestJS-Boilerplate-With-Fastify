@@ -1,0 +1,10 @@
+.git
+dist
+node_modules
+db-data
+.vuepress
+.vscode
+docs
+node_modules/**
+**/node_modules
+*/node_modules
